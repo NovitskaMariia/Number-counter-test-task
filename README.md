@@ -14,7 +14,7 @@ Numbers Finder is a simple Python GUI application built with Tkinter that allows
 ## How to Run
  - Clone or download the repository to your local machine.
  - Navigate to the directory containing the script.
- - Run the script using Python: python numbers_finder.py
+ - Run the script using Python: python Number_Counter.py
  - The GUI window will open. Click on the "Open File" button to select a .txt file containing numbers.
  - The application will display:
    - Maximum number
